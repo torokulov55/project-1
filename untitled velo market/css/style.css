@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+ul li {
+    list-style: none;
+}
+a, a:hover {
+    text-decoration: none;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.container {
+    width: 1170px;
+    margin: auto;
+}
+#header {
+    background: #151416;
+}
+
+.burger {
+    width: 49px;
+    height: 4px;
+}
+
